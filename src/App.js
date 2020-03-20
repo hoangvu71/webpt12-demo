@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>Is this working?</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with Awesomness matey matey mate!{' '}
         <a
           href="https://zeit.co/docs"
           target="_blank"
